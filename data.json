@@ -1,0 +1,70 @@
+[
+  {
+    "name": "w33",
+    "email": "aman@g.com",
+    "gender": "Male",
+    "phone": "0000000000"
+  },
+  {
+    "name": "w33",
+    "email": "aman@g.com",
+    "gender": "Male",
+    "phone": "0000000000"
+  },
+  {
+    "name": "w33",
+    "email": "aman@g.com",
+    "gender": "Male",
+    "phone": "6283615652"
+  },
+  {
+    "name": "ankit",
+    "email": "ankit0368.be23@chitkara.edu.in",
+    "gender": "Male",
+    "phone": "0000000000"
+  },
+  {
+    "name": "Ankit Wadhwa",
+    "email": "ankit0368.be23@chitkara.edu.in",
+    "gender": "Male",
+    "phone": "0000000000"
+  },
+  {
+    "name": "dsfs",
+    "email": "aman@g.com",
+    "gender": "Male",
+    "phone": "1234567890"
+  },
+  {
+    "name": "dd",
+    "email": "aman@g.com",
+    "gender": "Male",
+    "phone": "0000000000",
+    "state": "punjab",
+    "country": "India",
+    "PinCode": "140123",
+    "Password": "1234"
+  },
+  {
+    "name": "dd",
+    "email": "aman@g.com",
+    "gender": "Male",
+    "phone": "1234554455",
+    "state": "punjab",
+    "country": "Netherland",
+    "PinCode": "0000000000",
+    "Password": "1234",
+    "confirmPassword": "1234"
+  },
+  {
+    "name": "Anna",
+    "email": "anna2hah@gmail.com",
+    "gender": "Male",
+    "phone": "0000000000",
+    "state": "punjab",
+    "country": "India",
+    "PinCode": "140123",
+    "Password": "2332",
+    "confirmPassword": "2332"
+  }
+]
