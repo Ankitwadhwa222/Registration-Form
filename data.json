@@ -66,5 +66,16 @@
     "PinCode": "140123",
     "Password": "2332",
     "confirmPassword": "2332"
+  },
+  {
+    "name": "Ankit Wadhwa",
+    "email": "ankit0368.be23@chitkara.edu.in",
+    "gender": "Male",
+    "phone": "1111111111",
+    "state": "Punjab",
+    "country": "India",
+    "PinCode": "140104",
+    "Password": "11323",
+    "confirmPassword": "11323"
   }
 ]

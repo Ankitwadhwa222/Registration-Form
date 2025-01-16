@@ -6,7 +6,10 @@ import { fileURLToPath } from 'url';
 import cors from 'cors';
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: "https://registration-form-delta-mocha.vercel.app",
+  Credential:true
+}));
 app.use(bodyParser.json());
 
 
