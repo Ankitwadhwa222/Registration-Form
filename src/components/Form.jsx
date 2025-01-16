@@ -54,7 +54,7 @@ function Form() {
     if (Object.keys(validationErrors).length > 0) {
       setErrors(validationErrors);
     } else {
-      fetch('http://localhost:3001/api/save', {
+      fetch('https://registration-form-ojrk.vercel.app/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
