@@ -56,6 +56,7 @@ function Form() {
     } else {
       fetch('https://registration-form-ojrk.vercel.app/api/save', {
         method: 'POST',
+        mode: 'no-cors',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
       })
